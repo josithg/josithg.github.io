@@ -2,5 +2,5 @@
 - [[contact_me]]
 - [[projects]]
 - [[encryption_keys]]
-- [[Publications]]
-
+- [[publications]]
+- [[hobby_projects]]
