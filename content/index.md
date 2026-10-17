@@ -3,4 +3,5 @@
 - [[projects]]
 - [[encryption_keys]]
 - [[Publications]]
+- [[hobby_projects]]
 
