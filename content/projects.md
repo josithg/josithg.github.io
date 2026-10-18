@@ -14,7 +14,7 @@ Developed a lightweight, real-time Linux system for the Raspberry Pi 4B, based o
 
 This project provided valuable hands-on experience in embedded Linux development, real-time kernel configuration, device-driver integration, system optimization, and 5G networking. It also demonstrated how a carefully configured Linux system can deliver significantly improved real-time performance on resource-constrained hardware.
 
-- if you want read the detailed [report](https://github.com/josithg/josithg.github.io/blob/main/report/report.pdf)
+- if you want read the detailed [report](https://github.com/josithg/josithg.github.io/blob/v5/report/report.pdf)
 ## 2. QNX Hypervisor on Raspberry Pi 4 and Raspberry Pi 5
 
 Successfully built and deployed working QNX Hypervisor images for the Raspberry Pi 4B and Raspberry Pi 5, running QNX and Linux guest environments on the same hardware platform.
